@@ -22,9 +22,8 @@ Short Bio
 ======
 I am currently a postdoctoral researcher at the [Vector Institute](https://vectorinstitute.ai/),
 where I work with [Jimmy Ba](https://jimmylba.github.io/). 
-In 2018, I completed my PhD at UC Berkeley 
-where I was advised by [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
-In 2016 and 2017, I was also a research scientist at Open AI, where I was advised by Ilya Sutskever. 
+In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
+In 2016 and 2017, I was a research scientist at Open AI, where I was advised by Ilya Sutskever. 
 I received a BA in mathematics from the University of Chicago, where I spent four wonderful years. 
 During this time, I had the honor of working under 
 [Paul Sally](https://en.wikipedia.org/wiki/Paul_Sally).
