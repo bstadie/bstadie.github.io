@@ -13,7 +13,7 @@ than humans at well-defined rigid tasks, they typically falter on problems that 
 adaptability, exploration, and generalization. 
 I want to close this gap by creating algorithms that learn to 
 iteratively generalize from past experience. 
-Most of my work falls under the umbrella of
+Most of my work falls under the umbrellas of
 [meta learning](https://arxiv.org/pdf/1803.01118.pdf), 
 [exploration](https://arxiv.org/pdf/1507.00814.pdf), and 
 [imitation learning](https://arxiv.org/abs/1703.01703).  
