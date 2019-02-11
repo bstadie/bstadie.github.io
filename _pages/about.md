@@ -12,4 +12,7 @@ Paragraph about research interests.
 
 Short Bio
 ======
-Paragraph about short bio [GitHub pages](https://pages.github.com/)fasfasfs
+Paragraph about short bio.
+
+My Google Scholar page can be found [here](https://scholar.google.ca/citations?user=lEV5F5kAAAAJ&hl=en&oi=ao). 
+My CV is [here](https://pages.github.com/).
