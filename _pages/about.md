@@ -14,7 +14,7 @@ image classification. Yet, there has been comparatively little progress towards 
 engineering the learning capabilities of humans. Algorithms learn each new task from scratch, 
 requiring extensive training data and computational resources. For these algorithms, learning is never a 
 continual process. I want to close this gap by creating algorithms that learn strong priors from past experiences. 
-Most of my work falls under the umbrellas of [exploration](https://arxiv.org/pdf/1507.00814.pdf), [imitation learning](https://arxiv.org/abs/1703.01703), and [meta](https://arxiv.org/pdf/1803.01118.pdf) [learning](https://arxiv.org/pdf/1808.07804.pdf)).
+Most of my work falls under the umbrellas of [exploration](https://arxiv.org/pdf/1507.00814.pdf), [imitation learning](https://arxiv.org/abs/1703.01703), and [meta](https://arxiv.org/pdf/1803.01118.pdf) [learning](https://arxiv.org/pdf/1808.07804.pdf).
 
 
 Short Bio
