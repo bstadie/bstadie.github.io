@@ -18,9 +18,7 @@ Most of my work falls under the umbrellas of
 [exploration](https://arxiv.org/pdf/1507.00814.pdf), 
 [imitation learning](https://arxiv.org/abs/1703.01703), 
 [meta learning](https://arxiv.org/pdf/1803.01118.pdf) (see also [here](https://arxiv.org/pdf/1808.07804.pdf)).
-[meta learning](https://arxiv.org/pdf/1803.01118.pdf), 
-[exploration](https://arxiv.org/pdf/1507.00814.pdf), and 
-[imitation learning](https://arxiv.org/abs/1703.01703).  
+
 
 Short Bio
 ======
