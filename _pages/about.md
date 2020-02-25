@@ -7,20 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-The primary goal of my research is to build machines that can solve problems as 
-efficiently as humans. Recent years have seen tremendous progress towards machines 
-that achieve human-level performance on rigid well-defined tasks such as translation and 
-image classification. Yet, there has been comparatively little progress towards reverse 
-engineering the learning capabilities of humans. Algorithms learn each new task from scratch, 
-requiring extensive training data and computational resources. For these algorithms, learning is never a 
-continual process. I want to close this gap by creating algorithms that learn strong priors from past experiences. 
+I am interested in developing algorithms that endow robots with human-like problem-solving abilities.
 Most of my work falls under the umbrellas of [exploration](https://arxiv.org/pdf/1507.00814.pdf), [imitation learning](https://arxiv.org/abs/1703.01703), and [meta](https://arxiv.org/pdf/1803.01118.pdf) [learning](https://arxiv.org/pdf/1808.07804.pdf).
 
 
 Short Bio
 ======
-I am currently a postdoctoral researcher at the [Vector Institute](https://vectorinstitute.ai/),
-where I work with [Jimmy Ba](https://jimmylba.github.io/). 
+I am currently a postdoctoral researcher at the [Vector Institute](https://vectorinstitute.ai/), an AI research institute with strong ties to the University of Toronto. 
 In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
 In 2016 and 2017, I was a research scientist at Open AI, where I was advised by Ilya Sutskever. 
 I received a BA in mathematics from the University of Chicago, where I spent four wonderful years. 
