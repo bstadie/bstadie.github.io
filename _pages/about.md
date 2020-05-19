@@ -48,7 +48,7 @@ Sampling Aware Reinforcement Learning
 Lunjun Zhang, Bradly C. Stadie, Jimmy Ba  
 Conference on Uncertainty in Artificial Intelligence (UAI), July 2020.  
 
-&nbsp; 
+&nbsp;
 
 One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation  
 Matthew Zhang, Bradly C. Stadie   
