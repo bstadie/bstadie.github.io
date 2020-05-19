@@ -46,11 +46,19 @@ Publication Feed
 
 Sampling Aware Reinforcement Learning   
 Lunjun Zhang, Bradly C. Stadie, Jimmy Ba  
-Conference on Uncertainty in Artificial Intelligence (UAI), July 2020.  
+Conference on Uncertainty in Artificial Intelligence (UAI), July 2020. Paper [here](https://github.com/bstadie/All-Bradly-Stadie-Papers/blob/master/Sampling%20Aware%20Reinforcement%20Learning.pdf)  
 
 &nbsp;
 
 One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation  
 Matthew Zhang, Bradly C. Stadie   
-In International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020  
-[ArXiv link](https://arxiv.org/pdf/1912.00120.pdf)
+In International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020. [ArXiv link](https://arxiv.org/pdf/1912.00120.pdf)  
+
+
+2019
+---------------
+
+Transfer Learning for Estimating Causal Effects Using Neural Networks  
+Bradly C. Stadie, Soeren R. Kuenzel, Nikita Vemuri, Varsha Ramakrishnan, Jasjeet S. Sekhon,  Pieter Abbeel  
+INFORMS Annual Meeting ML and causal inference workshop (2019)  
+[ArXiv link](https://arxiv.org/pdf/1808.07804.pdf)
