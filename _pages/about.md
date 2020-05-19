@@ -31,5 +31,15 @@ Test New Area
 ======
 
 
-Test sub Area
-====
+2020
+===
+
+Sampling Aware Reinforcement Learning
+Lunjun Zhang, Bradly C. Stadie, Jimmy Ba
+Conference on Uncertainty in Artificial Intelligence (UAI)
+
+
+One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation
+Matthew Zhang, Bradly C. Stadie
+In International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020
+[ArXiv link](https://arxiv.org/pdf/1912.00120.pdf)
