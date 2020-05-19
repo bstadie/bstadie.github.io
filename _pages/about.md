@@ -60,5 +60,52 @@ In International Conference on Learning Representations (ICLR), Addis Ababa, Eth
 
 Transfer Learning for Estimating Causal Effects Using Neural Networks  
 Bradly C. Stadie, Soeren R. Kuenzel, Nikita Vemuri, Varsha Ramakrishnan, Jasjeet S. Sekhon,  Pieter Abbeel  
-INFORMS Annual Meeting ML and causal inference workshop (2019)  
-[ArXiv link](https://arxiv.org/pdf/1808.07804.pdf)
+INFORMS Annual Meeting ML and causal inference workshop (2019). [ArXiv link](https://arxiv.org/pdf/1808.07804.pdf)
+
+
+2018
+---------------
+
+Evolved Policy Gradients  
+Rein Houthooft, Richard Y. Chen, Phillip Isola, Bradly C. Stadie, Filip Wolski, Jonathan Ho, Pieter Abbeel  
+In Neural Information Processing Systems (NeurIPS) [Spotlight], Montreal, Canada, December 2018. [ArXiv](https://arxiv.org/pdf/1802.04821.pdf)  
+
+
+
+Some Considerations on Learning to Explore via Meta-Reinforcement Learning  
+Bradly C. Stadie, Ge Yang, Rein Houthooft, Xi Chen, Yan Duan, Yuhuai Wu, Pieter Abbeel, Ilya Sutskever  
+In Neural Information Processing Systems (NeurIPS), Montreal, Canada, December 2018. [ArXiv](https://arxiv.org/pdf/1803.01118.pdf)
+
+
+
+Learning to Learn from Flawed, Failed, and Figurative Demonstrations  
+Ge Yang, Bradly C. Stadie, Roberto Calandra, Pieter Abbeel, Sergey Levine, Chelsea Finn  
+In Neural Information Processing Systems (NeurIPS) Deep RL workshop [Spotlight], Montreal, Canada, December 2018. [Paper here](https://github.com/bstadie/All-Bradly-Stadie-Papers/blob/master/Learning%20to%20Learn%20from%20Flawed%20Failed%20and%20Figurative%20Demonstrations.pdf).
+
+
+
+
+2017
+---------------
+
+
+Third-Person Imitation Learning  
+Bradly C. Stadie, Pieter Abbeel, Ilya Sutskever  
+In the proceedings of the International Conference on Learning Representations (ICLR), Toulon, France, April 2017. [ArXiv](https://arxiv.org/pdf/1703.01703.pdf)
+
+
+
+One-Shot Imitation Learning  
+Yan (Rocky) Duan, Marcin Andrychowicz, Bradly C. Stadie, Jonathan Ho, Jonas Schneider, Ilya Sutskever, Pieter Abbeel, Wojciech Zaremba  
+In Neural Information Processing Systems (NeurIPS), Long Beach, California, December 2017. [ArXiv](https://arxiv.org/pdf/1703.07326.pdf)
+
+
+
+2015
+---------------
+
+
+Incentivizing Exploration in Reinforcement Learning with Deep Predictive Models  
+Bradly C. Stadie, Sergey Levine, Pieter Abbeel  
+In Neural Information Processing Systems (NeurIPS) Deep RL Workshop, Montreal, Canada, December 2015 [ArXiv](https://arxiv.org/pdf/1507.00814.pdf)
+
