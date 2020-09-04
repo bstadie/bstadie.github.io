@@ -48,9 +48,9 @@ Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learn
 Silviu Pitis, Harris Chan, Stephen Zhao, Bradly Stadie, Jimmy Ba
 In International Conference on Machine Learning, July 2020. Paper [here](https://proceedings.icml.cc/static/paper_files/icml/2020/5247-Paper.pdf)
 
-Sampling Aware Reinforcement Learning   
+Learning Intrinsic Rewards as a Bi-Level Optimization Problem   
 Lunjun Zhang, Bradly C. Stadie, Jimmy Ba  
-Conference on Uncertainty in Artificial Intelligence (UAI), July 2020. Paper [here](https://github.com/bstadie/All-Bradly-Stadie-Papers/blob/master/Sampling%20Aware%20Reinforcement%20Learning.pdf)  
+Conference on Uncertainty in Artificial Intelligence (UAI), July 2020. Paper [here](http://www.auai.org/uai2020/proceedings/66_main_paper.pdf)  
 
 
 
