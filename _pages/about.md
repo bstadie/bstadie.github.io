@@ -13,7 +13,7 @@ Most of my work falls under the umbrellas of [exploration](https://arxiv.org/pdf
 
 Short Bio
 ======
-I am currently a postdoctoral researcher at the [Vector Institute](https://vectorinstitute.ai/), an AI research institute with strong ties to the University of Toronto. 
+I am a research assistant professor at TTIC [Vector Institute](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
 In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
 In 2016 and 2017, I was a research scientist at Open AI, where I was advised by Ilya Sutskever. 
 I received a BA in mathematics from the University of Chicago, where I spent four wonderful years. 
@@ -44,6 +44,10 @@ Publication Feed
 2020
 ---------------
 
+World Model as a Graph: Learning Latent Landmarks for Planning
+Lunjun Zhang, Ge Yang, Bradly C. Stadie
+Submitted International Conference on Learning Representations (ICLR) [here](https://openreview.net/pdf?id=1NRMmEUyXMu)
+
 Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learning
 Silviu Pitis, Harris Chan, Stephen Zhao, Bradly Stadie, Jimmy Ba
 In International Conference on Machine Learning, July 2020. Paper [here](https://proceedings.icml.cc/static/paper_files/icml/2020/5247-Paper.pdf)
@@ -53,10 +57,12 @@ Lunjun Zhang, Bradly C. Stadie, Jimmy Ba
 Conference on Uncertainty in Artificial Intelligence (UAI), July 2020. Paper [here](http://www.auai.org/uai2020/proceedings/66_main_paper.pdf)  
 
 
-
 One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation  
 Matthew Zhang, Bradly C. Stadie   
 In International Conference on Learning Representations (ICLR), Addis Ababa, Ethiopia, April 2020. [ArXiv link](https://arxiv.org/pdf/1912.00120.pdf)  
+
+
+
 
 
 2019
