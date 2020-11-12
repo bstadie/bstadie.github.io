@@ -13,7 +13,7 @@ Most of my work falls under the umbrellas of [exploration](https://arxiv.org/pdf
 
 Short Bio
 ======
-I am a research assistant professor at TTIC [Vector Institute](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
+I am a research assistant professor at [TTIC](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
 In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
 In 2016 and 2017, I was a research scientist at Open AI, where I was advised by Ilya Sutskever. 
 I received a BA in mathematics from the University of Chicago, where I spent four wonderful years. 
