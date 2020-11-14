@@ -44,12 +44,12 @@ Publication Feed
 2020
 ---------------
 
-World Model as a Graph: Learning Latent Landmarks for Planning
-Lunjun Zhang, Ge Yang, Bradly C. Stadie
+World Model as a Graph: Learning Latent Landmarks for Planning  
+Lunjun Zhang, Ge Yang, Bradly C. Stadie  
 Submitted International Conference on Learning Representations (ICLR) [here](https://openreview.net/pdf?id=1NRMmEUyXMu)
 
-Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learning
-Silviu Pitis, Harris Chan, Stephen Zhao, Bradly Stadie, Jimmy Ba
+Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learning  
+Silviu Pitis, Harris Chan, Stephen Zhao, Bradly Stadie, Jimmy Ba  
 In International Conference on Machine Learning, July 2020. Paper [here](https://proceedings.icml.cc/static/paper_files/icml/2020/5247-Paper.pdf)
 
 Learning Intrinsic Rewards as a Bi-Level Optimization Problem   
