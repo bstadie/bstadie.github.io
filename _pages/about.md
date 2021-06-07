@@ -40,13 +40,15 @@ My CV is [here](files/bstadie_cv.pdf).
 Publication Feed
 ======
 
+2021
+---------------
+World Model as a Graph: Learning Latent Landmarks for Planning  
+Lunjun Zhang, Ge Yang, Bradly C. Stadie  
+In International Conference on Machine Learning (ICML), Long Presentation, July 2021. Paper [here](https://arxiv.org/pdf/2011.12491.pdf)
+
 
 2020
 ---------------
-
-World Model as a Graph: Learning Latent Landmarks for Planning  
-Lunjun Zhang, Ge Yang, Bradly C. Stadie  
-Submitted International Conference on Learning Representations (ICLR) [here](https://openreview.net/pdf?id=1NRMmEUyXMu)
 
 Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learning  
 Silviu Pitis, Harris Chan, Stephen Zhao, Bradly Stadie, Jimmy Ba  
