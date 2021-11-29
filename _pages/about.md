@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing algorithms that endow robots with human-like problem-solving abilities.
-Most of my work falls under the umbrellas of [exploration](https://arxiv.org/pdf/1507.00814.pdf), [imitation learning](https://arxiv.org/abs/1703.01703), and [meta](https://arxiv.org/pdf/1803.01118.pdf) [learning](https://arxiv.org/pdf/1808.07804.pdf).
+I am interested in developing machine intelligence. My work sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. My most recent paper, [Invariance Through Inference](https://openreview.net/forum?id=vXGcHthY6v), provides a good overview of this setting. For more thoughts on generalization, see also my recent papers on [planning](https://arxiv.org/pdf/2011.12491.pdf) and [causal inference](https://arxiv.org/pdf/1808.07804.pdf).
 
 
 Short Bio
@@ -24,6 +23,8 @@ During this time, I had the honor of working under
 My Google Scholar page can be found [here](https://scholar.google.ca/citations?user=lEV5F5kAAAAJ&hl=en&oi=ao). 
 
 My CV is [here](files/bstadie_cv.pdf).
+
+I am on the academic job market this year. 
 
 
 &nbsp; 
@@ -42,6 +43,10 @@ Publication Feed
 
 2021
 ---------------
+Invariance Through Inference
+Takuma Yoneda, Ge Yang, Matthew Walter, Bradly C. Stadie
+Submitted to International Conference in Learning Representations (ICLR) 2022. Preprint [here](https://openreview.net/forum?id=vXGcHthY6v)
+
 World Model as a Graph: Learning Latent Landmarks for Planning  
 Lunjun Zhang, Ge Yang, Bradly C. Stadie  
 In International Conference on Machine Learning (ICML), Long Presentation, July 2021. Paper [here](https://arxiv.org/pdf/2011.12491.pdf)
