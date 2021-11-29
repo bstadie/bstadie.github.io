@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing machine intelligence. My research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. My most recent paper, [Invariance Through Inference](https://openreview.net/forum?id=vXGcHthY6v), provides a good overview of this setting. For more thoughts on generalization, see also my recent papers on [planning](https://arxiv.org/pdf/2011.12491.pdf) and [causal inference](https://arxiv.org/pdf/1808.07804.pdf).
+I am interested in developing machine intelligence. My research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. My most recent paper, [Invariance Through Inference](https://openreview.net/forum?id=vXGcHthY6v), provides a good overview of this setting. For more thoughts on generalization, see also my recent papers on [planning in robotics](https://arxiv.org/pdf/2011.12491.pdf) and [causal inference](https://arxiv.org/pdf/1808.07804.pdf).
 
 
 Short Bio
@@ -78,7 +78,12 @@ In International Conference on Learning Representations (ICLR), Addis Ababa, Eth
 
 Transfer Learning for Estimating Causal Effects Using Neural Networks  
 Bradly C. Stadie, Soeren R. Kuenzel, Nikita Vemuri, Varsha Ramakrishnan, Jasjeet S. Sekhon,  Pieter Abbeel  
-INFORMS Annual Meeting ML and causal inference workshop (2019). [ArXiv link](https://arxiv.org/pdf/1808.07804.pdf)
+INFORMS Annual Meeting ML and causal inference workshop (2019). [ArXiv link](https://arxiv.org/pdf/1808.07804.pdf)  
+
+
+One Demonstration Imitation Learning 
+Bradly C. Stadie, Siyan Zhao, Qiqi Xu, Bonnie Li, Lunjun Zhang  
+Preprint. [See here](https://github.com/bstadie/All-Bradly-Stadie-Papers/blob/master/one-demo.pdf)  
 
 
 2018
