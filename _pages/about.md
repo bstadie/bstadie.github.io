@@ -24,6 +24,9 @@ My Google Scholar page can be found [here](https://scholar.google.ca/citations?u
 
 My CV is [here](files/bstadie_cv.pdf).
 
+&nbsp; 
+&nbsp; 
+
 I am on the academic job market this year. 
 
 
@@ -43,8 +46,8 @@ Publication Feed
 
 2021
 ---------------
-Invariance Through Inference
-Takuma Yoneda, Ge Yang, Matthew Walter, Bradly C. Stadie
+Invariance Through Inference  
+Takuma Yoneda, Ge Yang, Matthew Walter, Bradly C. Stadie  
 Submitted to International Conference in Learning Representations (ICLR) 2022. Preprint [here](https://openreview.net/forum?id=vXGcHthY6v)
 
 World Model as a Graph: Learning Latent Landmarks for Planning  
