@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing machine intelligence. My work sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. My most recent paper, [Invariance Through Inference](https://openreview.net/forum?id=vXGcHthY6v), provides a good overview of this setting. For more thoughts on generalization, see also my recent papers on [planning](https://arxiv.org/pdf/2011.12491.pdf) and [causal inference](https://arxiv.org/pdf/1808.07804.pdf).
+I am interested in developing machine intelligence. My research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. My most recent paper, [Invariance Through Inference](https://openreview.net/forum?id=vXGcHthY6v), provides a good overview of this setting. For more thoughts on generalization, see also my recent papers on [planning](https://arxiv.org/pdf/2011.12491.pdf) and [causal inference](https://arxiv.org/pdf/1808.07804.pdf).
 
 
 Short Bio
