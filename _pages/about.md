@@ -19,7 +19,7 @@ I received a BA in mathematics from the University of Chicago, where I spent fou
 During this time, I had the honor of working under 
 [Paul Sally](https://en.wikipedia.org/wiki/Paul_Sally).
 
-I am on the academic job market this year. 
+**I am on the academic job market this year.** 
 
 My Google Scholar page can be found [here](https://scholar.google.ca/citations?user=lEV5F5kAAAAJ&hl=en&oi=ao). 
 
