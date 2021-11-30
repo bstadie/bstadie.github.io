@@ -50,7 +50,7 @@ Submitted to International Conference in Learning Representations (ICLR) 2022. P
 
 World Model as a Graph: Learning Latent Landmarks for Planning  
 Lunjun Zhang, Ge Yang, Bradly C. Stadie  
-In International Conference on Machine Learning (ICML), Long Presentation, July 2021. Paper [here](https://arxiv.org/pdf/2011.12491.pdf)
+In International Conference on Machine Learning (ICML), Long Presentation, July 2021. Site [here](https://sites.google.com/view/latent-landmarks/)
 
 
 2020
