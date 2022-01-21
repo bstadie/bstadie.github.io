@@ -12,7 +12,7 @@ I am interested in developing machine intelligence. My research sits at the inte
 
 Short Bio
 ======
-**I am excited to announce that I will be an assistant professor in the [Northwestern Statistics Department](https://statistics.northwestern.edu/.) starting in fall of 2022!** 
+**I am excited to announce that I will be an assistant professor in the [Northwestern University Statistics Department](https://statistics.northwestern.edu/.) starting in Fall of 2022!** 
 
 I am a research assistant professor at [TTIC](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
 In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
