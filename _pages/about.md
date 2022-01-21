@@ -12,6 +12,8 @@ I am interested in developing machine intelligence. My research sits at the inte
 
 Short Bio
 ======
+**I am excited to announce that I will be an assistant professor in the [Northwestern Statistics Department](https://statistics.northwestern.edu/.) starting in fall of 2022!** 
+
 I am a research assistant professor at [TTIC](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
 In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
 In 2016 and 2017, I was a research scientist at Open AI, where I was advised by Ilya Sutskever. 
@@ -19,7 +21,6 @@ I received a BA in mathematics from the University of Chicago, where I spent fou
 During this time, I had the honor of working under 
 [Paul Sally](https://en.wikipedia.org/wiki/Paul_Sally).
 
-**I am on the academic job market this year.** 
 
 My Google Scholar page can be found [here](https://scholar.google.ca/citations?user=lEV5F5kAAAAJ&hl=en&oi=ao). 
 
