@@ -43,11 +43,15 @@ My CV is [here](files/bstadie_cv.pdf).
 Publication Feed
 ======
 
-2021
+2022
 ---------------
+
 Invariance Through Inference  
 Takuma Yoneda, Ge Yang, Matthew Walter, Bradly C. Stadie  
-Submitted to International Conference in Learning Representations (ICLR) 2022. Preprint [here](https://openreview.net/forum?id=vXGcHthY6v)
+In Robotics: Science and Systems (RSS) 2022. Available [here](https://arxiv.org/abs/2112.08526)
+
+2021
+---------------
 
 World Model as a Graph: Learning Latent Landmarks for Planning  
 Lunjun Zhang, Ge Yang, Bradly C. Stadie  
