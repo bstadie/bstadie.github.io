@@ -46,6 +46,10 @@ Publication Feed
 2022
 ---------------
 
+Understanding Goal Relabeling Requires Rethinking Divergence Minimization
+Lunjun Zhang, Bradly C. Stadie
+Submitted to NeurIPS 2022. Available [here](shorturl.at/ahQ69)
+
 Invariance Through Inference  
 Takuma Yoneda, Ge Yang, Matthew Walter, Bradly C. Stadie  
 In Robotics: Science and Systems (RSS) 2022. Available [here](https://arxiv.org/abs/2112.08526)
