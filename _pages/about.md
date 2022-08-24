@@ -47,6 +47,7 @@ Publication Feed
 ---------------
 
 Understanding Goal Relabeling Requires Rethinking Divergence Minimization
+
 Lunjun Zhang, Bradly C. Stadie
 Submitted to NeurIPS 2022. Available [here](shorturl.at/ahQ69)
 
