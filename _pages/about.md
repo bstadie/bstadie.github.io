@@ -15,7 +15,6 @@ I am interested in developing machine intelligence. My research sits at the inte
 Short Bio
 ======
 &nbsp; 
-&nbsp; 
 
 I am an assistant professor in the [Northwestern University Department of Statistics and Data Science](https://statistics.northwestern.edu/.).
 
