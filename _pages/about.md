@@ -12,9 +12,9 @@ I am interested in developing machine intelligence. My research sits at the inte
 
 Short Bio
 ======
-**I will be an assistant professor in the [Northwestern University Statistics Department](https://statistics.northwestern.edu/.) starting in Fall of 2022.** 
+I am an assistant professor in the [Northwestern University Department of Statistics and Data Science](https://statistics.northwestern.edu/.).
 
-Currently, I am a research assistant professor at [TTIC](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
+Previously, I was a research assistant professor at [TTIC](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
 In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
 In 2016 and 2017, I was a research scientist at Open AI, where I was advised by Ilya Sutskever. 
 I received a BA in mathematics from the University of Chicago, where I spent four wonderful years. 
@@ -47,7 +47,6 @@ Publication Feed
 ---------------
 
 Understanding Goal Relabeling Requires Rethinking Divergence Minimization
-
 Lunjun Zhang, Bradly C. Stadie
 Submitted to NeurIPS 2022. Available [here](shorturl.at/ahQ69)
 
