@@ -9,9 +9,14 @@ redirect_from:
 ---
 I am interested in developing machine intelligence. My research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. My most recent paper, [Invariance Through Inference](https://invariance-through-inference.github.io/), provides a good overview of this setting. For more thoughts on generalization, see also my recent papers on [planning in robotics](https://sites.google.com/view/latent-landmarks/) and [causal inference](https://arxiv.org/pdf/1808.07804.pdf).
 
+&nbsp; 
+
 
 Short Bio
 ======
+&nbsp; 
+&nbsp; 
+
 I am an assistant professor in the [Northwestern University Department of Statistics and Data Science](https://statistics.northwestern.edu/.).
 
 Previously, I was a research assistant professor at [TTIC](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
@@ -46,8 +51,7 @@ Publication Feed
 2022
 ---------------
 
-Understanding Goal Relabeling Requires Rethinking Divergence 
-Minimization
+Understanding Goal Relabeling Requires Rethinking Divergence Minimization.  
 Lunjun Zhang, Bradly C. Stadie
 Submitted to NeurIPS 2022. Available [here](shorturl.at/ahQ69)
 
