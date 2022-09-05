@@ -94,7 +94,7 @@ Bradly C. Stadie, Soeren R. Kuenzel, Nikita Vemuri, Varsha Ramakrishnan, Jasjeet
 INFORMS Annual Meeting ML and causal inference workshop (2019). [ArXiv link](https://arxiv.org/pdf/1808.07804.pdf)  
 
 
-One Demonstration Imitation Learning 
+One Demonstration Imitation Learning  
 Bradly C. Stadie, Siyan Zhao, Qiqi Xu, Bonnie Li, Lunjun Zhang  
 Preprint. [See here](https://github.com/bstadie/All-Bradly-Stadie-Papers/blob/master/one-demo.pdf)  
 
