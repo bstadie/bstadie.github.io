@@ -51,7 +51,7 @@ Publication Feed
 ---------------
 
 Understanding Goal Relabeling Requires Rethinking Divergence Minimization.  
-Lunjun Zhang, Bradly C. Stadie
+Lunjun Zhang, Bradly C. Stadie  
 Submitted to NeurIPS 2022. Available [here](shorturl.at/ahQ69)
 
 Invariance Through Inference  
