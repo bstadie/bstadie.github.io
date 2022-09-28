@@ -52,7 +52,7 @@ Publication Feed
 
 Understanding Goal Relabeling Requires Rethinking Divergence Minimization.  
 Lunjun Zhang, Bradly C. Stadie  
-Submitted to ICLR 2023. Available [here](https://bstadie.github.io/)
+Submitted to ICLR 2023. Available [here](https://arxiv.org/pdf/2209.13046.pdf)
 
 Invariance Through Inference  
 Takuma Yoneda, Ge Yang, Matthew Walter, Bradly C. Stadie  
