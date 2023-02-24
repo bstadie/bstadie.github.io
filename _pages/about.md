@@ -47,6 +47,15 @@ My CV is [here](files/bstadie_cv.pdf).
 Publication Feed
 ======
 
+
+2023
+---------------
+
+To the Noise and Back: Diffusion for Shared Autonomy  
+Takuma Yoneda, Luzhe Sun, Ge Yang, Bradly C. Stadie, Matthew R. Walter  
+Submitted to ICLR 2023. Available [here](https://arxiv.org/pdf/2302.12244.pdf)
+
+
 2022
 ---------------
 
