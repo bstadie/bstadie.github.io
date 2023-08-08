@@ -50,10 +50,13 @@ Publication Feed
 
 2023
 ---------------
+Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States. 
+Zidan Wang, Takuma Yoneda, Takeru Oba, Matthew Walter, Bradly C. Stadie
+Submitted to CoRL 2023. 
 
 To the Noise and Back: Diffusion for Shared Autonomy  
 Takuma Yoneda, Luzhe Sun, Ge Yang, Bradly C. Stadie, Matthew R. Walter  
-Submitted to ICLR 2023. Available [here](https://arxiv.org/pdf/2302.12244.pdf)
+In Proceedings of Robotics: Science and Systems (RSS) 2023. Available [here](https://arxiv.org/pdf/2302.12244.pdf)
 
 
 2022
