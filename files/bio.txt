@@ -1,0 +1,5 @@
+Bradly Stadie is an Assistant Professor of Statistics and Data Science at Northwestern University. 
+He received his PhD in Statistics from UC Berkeley in 2018 and has previously spent time as a researcher at Toyota Technological Institute of Chicago and Vector Institute in Toronto. 
+From 2016-2018, Bradly was a research scientist at OpenAI, where he was a founding member of the reinforcement learning team. 
+Bradly’s current research centers on foundational questions in reinforcement learning, asking how we can best train machine learning models from different types of feedback. 
+This work draws surprising connections to a variety of fields, including causal inference, large language models, and graph search.
