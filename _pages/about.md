@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing machine intelligence. This research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. My recent paper, [Invariance Through Inference](https://invariance-through-inference.github.io/), provides a good overview of this setting. For more thoughts on generalization, see also my recent papers on [planning in robotics](https://sites.google.com/view/latent-landmarks/) and [causal inference](https://arxiv.org/pdf/1808.07804.pdf).
+I am interested in developing machine intelligence. This research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. Most recently, I have been investigating the intersection of large language models (LLMs) and [robotics](https://wonderful-team-robotics.github.io/). 
 
 &nbsp; 
 
@@ -47,12 +47,15 @@ My CV is [here](files/bstadie_cv.pdf).
 Publication Feed
 ======
 
+2024
+---------------
+Solving Robotics Problems in Zero-Shot with Vision-Language Models. Available [here](https://wonderful-team-robotics.github.io/)
 
 2023
 ---------------
 Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States. 
 Zidan Wang, Takuma Yoneda, Takeru Oba, Matthew Walter, Bradly C. Stadie
-Submitted to CoRL 2023. 
+In CoRL 2023. 
 
 To the Noise and Back: Diffusion for Shared Autonomy  
 Takuma Yoneda, Luzhe Sun, Ge Yang, Bradly C. Stadie, Matthew R. Walter  
