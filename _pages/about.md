@@ -54,8 +54,8 @@ Solving Robotics Problems in Zero-Shot with Vision-Language Models. Available [h
 2023
 ---------------
 Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States. 
-Zidan Wang, Takuma Yoneda, Takeru Oba, Matthew Walter, Bradly C. Stadie
-In CoRL 2023. 
+Zidan Wang, Takuma Yoneda, Takeru Oba, Matthew Walter, Bradly C. Stadie.
+In Conference on Robot Learning (CoRL) 2023. 
 
 To the Noise and Back: Diffusion for Shared Autonomy  
 Takuma Yoneda, Luzhe Sun, Ge Yang, Bradly C. Stadie, Matthew R. Walter  
@@ -67,7 +67,7 @@ In Proceedings of Robotics: Science and Systems (RSS) 2023. Available [here](htt
 
 Understanding Goal Relabeling Requires Rethinking Divergence Minimization.  
 Lunjun Zhang, Bradly C. Stadie  
-Submitted to ICLR 2023. Available [here](https://arxiv.org/pdf/2209.13046.pdf)
+In NeurIPS 2022 Deep RL workshop. Available [here](https://arxiv.org/pdf/2209.13046.pdf)
 
 Invariance Through Inference  
 Takuma Yoneda, Ge Yang, Matthew Walter, Bradly C. Stadie  
