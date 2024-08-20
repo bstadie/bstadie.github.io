@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing machine intelligence. This research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [diffusion models](https://diffusion-for-shared-autonomy.github.io/), [exploration](https://proceedings.mlr.press/v119/pitis20a.html), and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of large [language models (LLMs) and robotics](https://wonderful-team-robotics.github.io/). 
+I am interested in developing machine intelligence. My research sits at the intersection of reinforcement learning and statistics, and focuses on how we can use statistical tools to improve generalization in reinforcement learning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [diffusion models](https://diffusion-for-shared-autonomy.github.io/), [exploration](https://proceedings.mlr.press/v119/pitis20a.html), and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of large [language models (LLMs) and robotics](https://wonderful-team-robotics.github.io/). 
 
 &nbsp; 
 
