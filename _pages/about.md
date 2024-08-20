@@ -55,7 +55,7 @@ Solving Robotics Problems in Zero-Shot with Vision-Language Models. Available [h
 ---------------
 Cold Diffusion on the Replay Buffer: Learning to Plan from Known Good States. 
 Zidan Wang, Takuma Yoneda, Takeru Oba, Matthew Walter, Bradly C. Stadie.
-In Conference on Robot Learning (CoRL) 2023. 
+In Conference on Robot Learning (CoRL) 2023. Available [here](https://arxiv.org/abs/2310.13914)
 
 To the Noise and Back: Diffusion for Shared Autonomy  
 Takuma Yoneda, Luzhe Sun, Ge Yang, Bradly C. Stadie, Matthew R. Walter  
