@@ -41,9 +41,21 @@ My CV is [here](files/bstadie_cv.pdf).
 &nbsp; 
 
 
+I recently made a YouTube video about some of my recent research for a general audience. 
+======
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp;
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR6HUMljvg0?si=QVTt8GOr3WsrsOh7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-I recently made a YouTube video about some of my recent research for a general audience. 
+
+
+
 
 &nbsp; 
 &nbsp; 
@@ -96,7 +108,7 @@ In International Conference on Machine Learning (ICML), Long Presentation, July 
 
 Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learning  
 Silviu Pitis, Harris Chan, Stephen Zhao, Bradly Stadie, Jimmy Ba  
-In International Conference on Machine Learning, July 2020. Paper [here](https://proceedings.icml.cc/static/paper_files/icml/2020/5247-Paper.pdf)
+In International Conference on Machine Learning, July 2020. Paper [here](https://arxiv.org/abs/2007.02832)
 
 Learning Intrinsic Rewards as a Bi-Level Optimization Problem   
 Lunjun Zhang, Bradly C. Stadie, Jimmy Ba  
