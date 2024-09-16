@@ -41,6 +41,7 @@ My CV is [here](files/bstadie_cv.pdf).
 &nbsp; 
 
 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
 
 
 
