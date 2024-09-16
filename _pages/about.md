@@ -43,7 +43,14 @@ My CV is [here](files/bstadie_cv.pdf).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+I recently made a YouTube video about some of my recent research for a general audience. 
 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
 
 
 
