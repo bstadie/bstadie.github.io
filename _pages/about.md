@@ -41,8 +41,8 @@ My CV is [here](files/bstadie_cv.pdf).
 &nbsp; 
 
 
-I recently made a YouTube video about some of my recent research for a general audience. 
-======
+I recently made a YouTube video about some of my research for a general audience. 
+---------------
 
 &nbsp; 
 &nbsp; 
