@@ -71,7 +71,12 @@ Publication Feed
 
 2024
 ---------------
-Solving Robotics Problems in Zero-Shot with Vision-Language Models. Available [here](https://wonderful-team-robotics.github.io/)
+Solving Robotics Problems in Zero-Shot with Vision-Language Models. 
+Zidan Wang, Rui Shen, Bradly Stadie 
+Available [here](https://wonderful-team-robotics.github.io/)
+
+Artificial Intelligence Safety in Evidence-Based Medicine via Expert-of-Experts Verification and Alignment (EVAL) with Application to Upper Gastrointestinal Bleeding. 
+Mauro Giuffrè, Kisung You, Ziteng Pang, Simone Kresevic, Sunny Chung, Ryan Chen, Youngmin Ko, Colleen Chan, Theo Saarinen, Milos Ajcevic, Lory S. Crocè, Guadalupe Garcia-Tsao, Ian Gralnek, Joseph J.Y. Sung, Alan Barkun, Loren Laine, Jasjeet Sekhon, Dennis L. Shung, Bradly Stadie
 
 2023
 ---------------
