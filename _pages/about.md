@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing machine intelligence. Towards this goal, I research reinforcement learning, high level planning, and robot learning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [goal conditioned reinforcement learning](https://arxiv.org/abs/2007.02832), [diffusion for shared autonomy](https://diffusion-for-shared-autonomy.github.io/), and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of large [language models (LLMs) and physical task planning](https://wonderful-team-robotics.github.io/). 
+I am interested in developing machine intelligence. Towards this goal, I research reinforcement learning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [goal conditioned reinforcement learning](https://arxiv.org/abs/2007.02832), [diffusion for shared autonomy](https://diffusion-for-shared-autonomy.github.io/), and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of large [language models (LLMs) and physical task planning](https://wonderful-team-robotics.github.io/). 
 
 &nbsp; 
 
@@ -69,14 +69,28 @@ I recently made a YouTube video about some of my research for a general audience
 Publication Feed
 ======
 
+
+2025
+---------------
+
+Of Mice and Machines: A Comparison of Learning Between Real World Mice and RL Agents. 
+Shuo Han, German Espinosa, Junda Huang, Malcolm A. MacIver, Daniel Dombeck, Bradly C. Stadie
+In ICML, 2025. [here](https://openreview.net/forum?id=q2pjlx1OeX)
+
+Thoughts and Lessons on Using Visual Foundation Models for Manipulation
+Ryan Chen, Ziteng Pang, Bradly C. Stadie. 
+Submitted to Transactions on Machine Learning Research (TMLR)
+
 2024
 ---------------
 Solving Robotics Problems in Zero-Shot with Vision-Language Models. 
-Zidan Wang, Rui Shen, Bradly Stadie 
+Zidan Wang, Rui Shen, Bradly Stadie
+In Transactions on Machine Learning Research (TMLR)
 Available [here](https://wonderful-team-robotics.github.io/)
 
 Artificial Intelligence Safety in Evidence-Based Medicine via Expert-of-Experts Verification and Alignment (EVAL) with Application to Upper Gastrointestinal Bleeding. 
-Mauro Giuffrè, Kisung You, Ziteng Pang, Simone Kresevic, Sunny Chung, Ryan Chen, Youngmin Ko, Colleen Chan, Theo Saarinen, Milos Ajcevic, Lory S. Crocè, Guadalupe Garcia-Tsao, Ian Gralnek, Joseph J.Y. Sung, Alan Barkun, Loren Laine, Jasjeet Sekhon, Dennis L. Shung, Bradly Stadie
+Mauro Giuffrè, Ziteng Pang, Kisung You, Simone Kresevic, Sunny Chung, Ryan Chen, Youngmin Ko, Colleen Chan, Theo Saarinen, Milos Ajcevic, Lory S. Crocè, Guadalupe Garcia-Tsao, Ian Gralnek, Joseph J.Y. Sung, Alan Barkun, Loren Laine, Jasjeet Sekhon, Dennis L. Shung, Bradly Stadie. 
+In Nature Digital Medicine. Available [here](https://www.nature.com/articles/s41746-025-01589-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250503&utm_content=10.1038/s41746-025-01589-z)
 
 2023
 ---------------
