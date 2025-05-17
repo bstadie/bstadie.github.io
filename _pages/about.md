@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing machine intelligence. Towards this goal, I study reinforcement learning and planning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [goal conditioned reinforcement learning](https://arxiv.org/abs/2007.02832), [diffusion for shared autonomy](https://diffusion-for-shared-autonomy.github.io/), planning in animals[https://openreview.net/forum?id=q2pjlx1OeX], and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of large [language models (LLMs) and physical task planning](https://wonderful-team-robotics.github.io/). 
+I am interested in developing machine intelligence. Towards this goal, I study reinforcement learning and planning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [goal conditioned reinforcement learning](https://arxiv.org/abs/2007.02832), [diffusion for shared autonomy](https://diffusion-for-shared-autonomy.github.io/), [planning in animals](https://openreview.net/forum?id=q2pjlx1OeX), and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of large [language models (LLMs) and physical task planning](https://wonderful-team-robotics.github.io/). 
 
 &nbsp; 
 
