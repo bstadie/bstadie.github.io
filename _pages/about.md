@@ -70,13 +70,20 @@ I recently made a YouTube video about some of my research for a general audience
 
 ## 2025
 
+**LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
+Ryan Chen, Youngmin Ko, Zeyu Zhang, Catherine Cho, Sunny Chung, Mauro Giuffré, Dennis L. Shung, Bradly C. Stadie  
+arXiv preprint. Submitted to NeurIPS 2025. [arXiv:2505.11772](https://arxiv.org/abs/2505.11772)
+
 **Of Mice and Machines: A Comparison of Learning Between Real World Mice and RL Agents.**  
 Shuo Han, German Espinosa, Junda Huang, Malcolm A. MacIver, Daniel Dombeck, Bradly C. Stadie  
 In ICML, 2025. [here](https://openreview.net/forum?id=q2pjlx1OeX)
 
 **Thoughts and Lessons on Using Visual Foundation Models for Manipulation**  
 Ryan Chen, Ziteng Pang, Bradly C. Stadie.  
-Submitted to Transactions on Machine Learning Research (TMLR)
+In Transactions on Machine Learning Research (TMLR). [here](https://openreview.net/forum?id=o6mnkDzVuc)
+
+
+
 
 ## 2024
 
