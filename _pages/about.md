@@ -68,15 +68,17 @@ I recently made a YouTube video about some of my research for a general audience
 
 # Publication Feed
 
+## 2026 
+
+**LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
+Ryan Chen, Youngmin Ko, Zeyu Zhang, Catherine Cho, Sunny Chung, Mauro Giuffré, Dennis L. Shung, Bradly C. Stadie  
+In AIStats 2026 (Spotlight). [arXiv:2505.11772](https://arxiv.org/abs/2505.11772)
+
 ## 2025
 
 **D2 Actor Critic: Diffusion Actor Meets Distributional Critic**  
 Lunjun Zhang, Shuo Han, Hanrui Lyu, Bradly C. Stadie  
 In Transactions on Machine Learning Research (TMLR). [here](https://openreview.net/forum?id=8KbstCUXhH&noteId=nmqs5DxEuP)
-
-**LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
-Ryan Chen, Youngmin Ko, Zeyu Zhang, Catherine Cho, Sunny Chung, Mauro Giuffré, Dennis L. Shung, Bradly C. Stadie  
-arXiv preprint. Submitted to NeurIPS 2025. [arXiv:2505.11772](https://arxiv.org/abs/2505.11772)
 
 **Of Mice and Machines: A Comparison of Learning Between Real World Mice and RL Agents.**  
 Shuo Han, German Espinosa, Junda Huang, Malcolm A. MacIver, Daniel Dombeck, Bradly C. Stadie  
