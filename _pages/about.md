@@ -80,10 +80,6 @@ arXiv 2026. [arXiv:2602.17234](https://arxiv.org/abs/2602.17234)
 Lunjun Zhang, Ryan Chen, Bradly C. Stadie  
 arXiv 2026. [arXiv:2602.14697](https://arxiv.org/abs/2602.14697)
 
-**AIA Forecaster: Technical Report**  
-Rohan Alur, Bradly C. Stadie, Daniel Kang, Ryan Chen, Matt McManus, Michael Rickert, Tyler Lee, Michael Federici, Richard Zhu, Dennis Fogerty, Hayley Williamson, Nina Lozinski, Aaron Linsky, Jasjeet S. Sekhon  
-arXiv 2025. [arXiv:2511.07678](https://arxiv.org/abs/2511.07678)
-
 
 **LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
 Ryan Chen, Youngmin Ko, Zeyu Zhang, Catherine Cho, Sunny Chung, Mauro Giuffré, Dennis L. Shung, Bradly C. Stadie  
@@ -103,6 +99,10 @@ In ICML, 2025. [here](https://openreview.net/forum?id=q2pjlx1OeX)
 **Thoughts and Lessons on Using Visual Foundation Models for Manipulation**  
 Ryan Chen, Ziteng Pang, Bradly C. Stadie.  
 In Transactions on Machine Learning Research (TMLR). [here](https://openreview.net/forum?id=o6mnkDzVuc)
+
+**AIA Forecaster: Technical Report**  
+Rohan Alur, Bradly C. Stadie, Daniel Kang, Ryan Chen, Matt McManus, Michael Rickert, Tyler Lee, Michael Federici, Richard Zhu, Dennis Fogerty, Hayley Williamson, Nina Lozinski, Aaron Linsky, Jasjeet S. Sekhon  
+arXiv 2025. [arXiv:2511.07678](https://arxiv.org/abs/2511.07678)
 
 
 
