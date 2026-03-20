@@ -71,9 +71,24 @@ I recently made a YouTube video about some of my research for a general audience
 
 ## 2026 
 
+
+**All Leaks Count, Some Count More: Interpretable Temporal Contamination Detection in LLM Backtesting**  
+Zeyu Zhang, Ryan Chen, Bradly C. Stadie  
+arXiv 2026. [arXiv:2602.17234](https://arxiv.org/abs/2602.17234)
+
+**Evolutionary System Prompt Learning for Reinforcement Learning in LLMs**  
+Lunjun Zhang, Ryan Chen, Bradly C. Stadie  
+arXiv 2026. [arXiv:2602.14697](https://arxiv.org/abs/2602.14697)
+
+**AIA Forecaster: Technical Report**  
+Rohan Alur, Bradly C. Stadie, Daniel Kang, Ryan Chen, Matt McManus, Michael Rickert, Tyler Lee, Michael Federici, Richard Zhu, Dennis Fogerty, Hayley Williamson, Nina Lozinski, Aaron Linsky, Jasjeet S. Sekhon  
+arXiv 2025. [arXiv:2511.07678](https://arxiv.org/abs/2511.07678)
+
+
 **LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
 Ryan Chen, Youngmin Ko, Zeyu Zhang, Catherine Cho, Sunny Chung, Mauro Giuffré, Dennis L. Shung, Bradly C. Stadie  
 In AIStats 2026 (Spotlight). [arXiv:2505.11772](https://arxiv.org/abs/2505.11772)
+
 
 ## 2025
 
