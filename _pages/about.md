@@ -24,7 +24,7 @@ I received a BA in mathematics from the University of Chicago, where I spent fou
 During this time, I had the honor of working under 
 [Paul Sally](https://en.wikipedia.org/wiki/Paul_Sally).
 
-In 2025 and 2026, I spent time at Mayo Clinic as a Visiting Reserach Scientist, where I focused on using [machine learning](https://arxiv.org/abs/2505.11772) and [RL](https://www.nature.com/articles/s41746-025-01589-z) to shorten time to medical diagnosis. My primary collaborator on these efforts is [Dennis Shung](https://scholar.google.com/citations?user=N-LePdMAAAAJ&hl=en).
+In 2025 and 2026, I spent time at [Mayo Clinic](https://en.wikipedia.org/wiki/Mayo_Clinic) as a Visiting Reserach Scientist, where I focused on using [machine learning](https://arxiv.org/abs/2505.11772) and [RL](https://www.nature.com/articles/s41746-025-01589-z) to shorten time to medical diagnosis. My primary collaborator on these efforts is [Dennis Shung](https://scholar.google.com/citations?user=N-LePdMAAAAJ&hl=en).
 
 
 My Google Scholar page can be found [here](https://scholar.google.ca/citations?user=lEV5F5kAAAAJ&hl=en&oi=ao). 
