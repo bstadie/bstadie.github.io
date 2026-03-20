@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am interested in developing machine intelligence. Towards this goal, I study reinforcement learning and planning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [goal conditioned reinforcement learning](https://arxiv.org/abs/2007.02832), [diffusion for shared autonomy](https://diffusion-for-shared-autonomy.github.io/), [planning in animals](https://openreview.net/forum?id=q2pjlx1OeX), and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of large [language models (LLMs) and physical task planning](https://wonderful-team-robotics.github.io/). 
+I am interested in developing machine intelligence. Towards this goal, I study reinforcement learning and planning. I have written about [planning in robotics](https://sites.google.com/view/latent-landmarks/), [goal conditioned reinforcement learning](https://arxiv.org/abs/2007.02832), [diffusion for shared autonomy](https://diffusion-for-shared-autonomy.github.io/), [planning in animals](https://openreview.net/forum?id=q2pjlx1OeX), and [causal inference](https://arxiv.org/abs/1808.07804). Most recently, I have been investigating the intersection of LLMs and physical task planning](https://wonderful-team-robotics.github.io/). 
 
 &nbsp; 
 
@@ -18,12 +18,13 @@ Short Bio
 
 I am an assistant professor in the [Northwestern University Department of Statistics and Data Science](https://statistics.northwestern.edu/.).
 
-Previously, I was a research assistant professor at [TTIC](https://www.ttic.edu/), an academic institute located on the campus of the University of Chicago. 
 In 2018, I completed my PhD at UC Berkeley. My advisor was [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/). 
 In 2016 and 2017, I was a research scientist at Open AI, where I was advised by [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever). 
 I received a BA in mathematics from the University of Chicago, where I spent four wonderful years. 
 During this time, I had the honor of working under 
 [Paul Sally](https://en.wikipedia.org/wiki/Paul_Sally).
+
+In 2025 and 2026, I spent time at Mayo Clinic as a Visiting Reserach Scientist, where I focused on using [machine learning](https://arxiv.org/abs/2505.11772) and [RL](https://www.nature.com/articles/s41746-025-01589-z) to shorten time to medical diagnosis. My primary collaborator on these efforts is [Dennis Shung](https://scholar.google.com/citations?user=N-LePdMAAAAJ&hl=en)
 
 
 My Google Scholar page can be found [here](https://scholar.google.ca/citations?user=lEV5F5kAAAAJ&hl=en&oi=ao). 
