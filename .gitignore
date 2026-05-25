@@ -4,3 +4,30 @@ files/.DS_Store
 files/.DS_Store
 files/.DS_Store
 files/.DS_Store
+
+# Tenure packet — not part of the website
+Tenure_Statement/
+Tenure_Statement_overleaf.zip
+Research_Statement/
+Service_Statement/
+Teaching_Statement/
+Reappointment_Statement__Final_/
+old_z/
+NewStructureForResearch.md
+RulesForWriting.md
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+files/.DS_Store
+files/.DS_Store
+files/.DS_Store

@@ -75,6 +75,10 @@ I recently made a YouTube video about some of my research for a general audience
 Zeyu Zhang, Bradly C. Stadie  
 Submitted to NeurIPS 2026.
 
+**Locating LLM Writing-Style Bias: Register Narrows Breadth and Specificity**  
+Youngmin Ko, Bradly C. Stadie  
+Submitted to EMNLP 2026.
+
 **Learning What Matters: Criticality-Guided Reinforcement Learning for Sequential Clinical Diagnosis**  
 Jiayi Li, Dennis Shung, Bradly Stadie  
 Submitted to NeurIPS 2026.
@@ -94,7 +98,7 @@ arXiv 2026. [arXiv:2602.14697](https://arxiv.org/abs/2602.14697)
 
 **LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
 Ryan Chen, Youngmin Ko, Zeyu Zhang, Catherine Cho, Sunny Chung, Mauro Giuffré, Dennis L. Shung, Bradly C. Stadie  
-In AIStats 2026 (Spotlight). [arXiv:2505.11772](https://arxiv.org/abs/2505.11772)
+In AIStats 2026 (Oral). [arXiv:2505.11772](https://arxiv.org/abs/2505.11772)
 
 
 ## 2025
