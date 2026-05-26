@@ -73,19 +73,19 @@ I recently made a YouTube video about some of my research for a general audience
 
 **Locating LLM Writing-Style Bias: Register Narrows Breadth and Specificity**  
 Youngmin Ko, Bradly C. Stadie  
-Submitted to EMNLP 2026.
+Submitted to EMNLP 2026. [here](files/typos.pdf)
 
 **TEMPO: Temporal Enforcement via Mode-Separated Policy Optimization for Trustworthy LLM Backtesting**  
 Zeyu Zhang, Bradly C. Stadie  
-Submitted to NeurIPS 2026.
+Submitted to NeurIPS 2026. [here](https://arxiv.org/html/2605.18843v1)
 
 **Learning What Matters: Criticality-Guided Reinforcement Learning for Sequential Clinical Diagnosis**  
 Jiayi Li, Dennis Shung, Bradly Stadie  
-Submitted to NeurIPS 2026.
+Submitted to NeurIPS 2026. [here](files/simulator.pdf)
 
 **Schema Guidance as Managed Context for Enhanced Agentic SQL Generation in Clinical Databases**  
 Dennis L. Shung, Bradly C. Stadie  
-Submitted to NeurIPS 2026.
+Submitted to NeurIPS 2026. [here](files/maestro.pdf)
 
 **All Leaks Count, Some Count More: Interpretable Temporal Contamination Detection in LLM Backtesting**  
 Zeyu Zhang, Ryan Chen, Bradly C. Stadie  
