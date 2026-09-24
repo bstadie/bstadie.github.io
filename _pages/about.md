@@ -89,7 +89,7 @@ Dennis L. Shung, Bradly C. Stadie
 
 **All Leaks Count, Some Count More: Interpretable Temporal Contamination Detection in LLM Backtesting**  
 Zeyu Zhang, Ryan Chen, Bradly C. Stadie  
-In Findings of EMNLP 2026 (14.3% acceptance). [arXiv:2602.17234](https://arxiv.org/abs/2602.17234)
+In Findings of EMNLP 2026. [arXiv:2602.17234](https://arxiv.org/abs/2602.17234)
 
 **Evolutionary System Prompt Learning for Reinforcement Learning in LLMs**  
 Lunjun Zhang, Ryan Chen, Bradly C. Stadie  
