@@ -77,11 +77,11 @@ Youngmin Ko, Bradly C. Stadie
 
 **TEMPO: Temporal Enforcement via Mode-Separated Policy Optimization for Trustworthy LLM Backtesting**  
 Zeyu Zhang, Bradly C. Stadie  
-[here](https://arxiv.org/html/2605.18843v1)
+In NeurIPS 2026. [here](https://arxiv.org/html/2605.18843v1)
 
 **Learning What Matters: Criticality-Guided Reinforcement Learning for Sequential Clinical Diagnosis**  
 Jiayi Li, Dennis Shung, Bradly Stadie  
-[here](files/simulator.pdf)
+In NeurIPS 2026. [here](files/simulator.pdf)
 
 **Schema Guidance as Managed Context for Enhanced Agentic SQL Generation in Clinical Databases**  
 Dennis L. Shung, Bradly C. Stadie  
@@ -89,11 +89,11 @@ Dennis L. Shung, Bradly C. Stadie
 
 **All Leaks Count, Some Count More: Interpretable Temporal Contamination Detection in LLM Backtesting**  
 Zeyu Zhang, Ryan Chen, Bradly C. Stadie  
-[arXiv:2602.17234](https://arxiv.org/abs/2602.17234)
+In Findings of EMNLP 2026 (14.3% acceptance). [arXiv:2602.17234](https://arxiv.org/abs/2602.17234)
 
 **Evolutionary System Prompt Learning for Reinforcement Learning in LLMs**  
 Lunjun Zhang, Ryan Chen, Bradly C. Stadie  
-[arXiv:2602.14697](https://arxiv.org/abs/2602.14697)
+In NeurIPS 2026. [arXiv:2602.14697](https://arxiv.org/abs/2602.14697)
 
 
 **LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
