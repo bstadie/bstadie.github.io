@@ -75,10 +75,6 @@ I recently made a YouTube video about some of my research for a general audience
 Zeyu Zhang, Bradly C. Stadie  
 In Transactions on Machine Learning Research (TMLR). [here](https://openreview.net/forum?id=x3qagPELrp)
 
-**Locating LLM Writing-Style Bias: Register Narrows Breadth and Specificity**  
-Youngmin Ko, Bradly C. Stadie  
-[here](files/typos.pdf)
-
 **TEMPO: Temporal Enforcement via Mode-Separated Policy Optimization for Trustworthy LLM Backtesting**  
 Zeyu Zhang, Bradly C. Stadie  
 In NeurIPS 2026. [here](https://arxiv.org/html/2605.18843v1)
@@ -87,22 +83,25 @@ In NeurIPS 2026. [here](https://arxiv.org/html/2605.18843v1)
 Jiayi Li, Dennis Shung, Bradly Stadie  
 In NeurIPS 2026. [here](files/simulator.pdf)
 
-**Schema Guidance as Managed Context for Enhanced Agentic SQL Generation in Clinical Databases**  
-Dennis L. Shung, Bradly C. Stadie  
-[here](files/maestro.pdf)
+**Evolutionary System Prompt Learning for Reinforcement Learning in LLMs**  
+Lunjun Zhang, Ryan Chen, Bradly C. Stadie  
+In NeurIPS 2026. [arXiv:2602.14697](https://arxiv.org/abs/2602.14697)
 
 **All Leaks Count, Some Count More: Interpretable Temporal Contamination Detection in LLM Backtesting**  
 Zeyu Zhang, Ryan Chen, Bradly C. Stadie  
 In Findings of EMNLP 2026. [arXiv:2602.17234](https://arxiv.org/abs/2602.17234)
 
-**Evolutionary System Prompt Learning for Reinforcement Learning in LLMs**  
-Lunjun Zhang, Ryan Chen, Bradly C. Stadie  
-In NeurIPS 2026. [arXiv:2602.14697](https://arxiv.org/abs/2602.14697)
-
-
 **LAMP: Extracting Locally Linear Decision Surfaces from LLM World Models**  
 Ryan Chen, Youngmin Ko, Zeyu Zhang, Catherine Cho, Sunny Chung, Mauro Giuffré, Dennis L. Shung, Bradly C. Stadie  
 In AIStats 2026 (Oral). [arXiv:2505.11772](https://arxiv.org/abs/2505.11772)
+
+**Locating LLM Writing-Style Bias: Register Narrows Breadth and Specificity**  
+Youngmin Ko, Bradly C. Stadie  
+[here](files/typos.pdf)
+
+**Schema Guidance as Managed Context for Enhanced Agentic SQL Generation in Clinical Databases**  
+Dennis L. Shung, Bradly C. Stadie  
+[here](files/maestro.pdf)
 
 
 ## 2025
