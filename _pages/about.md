@@ -71,6 +71,10 @@ I recently made a YouTube video about some of my research for a general audience
 
 ## 2026 
 
+**Temporal Leakage in LLM Backtesting: Measurement, Validation, and Adjusted Scores**  
+Zeyu Zhang, Bradly C. Stadie  
+In Transactions on Machine Learning Research (TMLR). [here](https://openreview.net/forum?id=x3qagPELrp)
+
 **Locating LLM Writing-Style Bias: Register Narrows Breadth and Specificity**  
 Youngmin Ko, Bradly C. Stadie  
 [here](files/typos.pdf)
