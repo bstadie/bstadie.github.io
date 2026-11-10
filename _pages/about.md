@@ -103,6 +103,14 @@ Youngmin Ko, Bradly C. Stadie
 Dennis L. Shung, Bradly C. Stadie  
 [here](files/maestro.pdf)
 
+**Each Insufficient in Its Own Way: Calibrating Language Models Across Varying Evidence States**  
+Jiayi Li, Dennis L. Shung, Bradly C. Stadie  
+arXiv 2026. [arXiv:2610.33237](https://arxiv.org/abs/2610.33237)
+
+**NeuroLens: Learning Latent Embeddings of Neural Semantics from Chronic Recordings**  
+Hanrui Lyu, Baiyuan Chen, Tianshu Tan, Matthew R. Whiteway, Maxwell D. Melin, Ji Xia, Linyang He, Bradly C. Stadie, Anne Churchland, Liam Paninski, Yizi Zhang  
+arXiv 2026. [arXiv:2610.02864](https://arxiv.org/abs/2610.02864)
+
 
 ## 2025
 
