@@ -103,6 +103,10 @@ Youngmin Ko, Bradly C. Stadie
 Dennis L. Shung, Bradly C. Stadie  
 [here](files/maestro.pdf)
 
+**One Fabrication Is Enough: A Fake News Article Changes the Forecasts of LLM Forecasting Systems**  
+Zeyu Zhang, Bradly C. Stadie  
+arXiv 2026. [arXiv:2611.15102](https://arxiv.org/abs/2611.15102)
+
 **Each Insufficient in Its Own Way: Calibrating Language Models Across Varying Evidence States**  
 Jiayi Li, Dennis L. Shung, Bradly C. Stadie  
 arXiv 2026. [arXiv:2610.33237](https://arxiv.org/abs/2610.33237)
